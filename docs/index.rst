@@ -5,7 +5,7 @@ When web pages fail to load in the DuckDuckGo Browser, it can interrupt your bro
 
 
 .. image:: https://img.shields.io/badge/Customer%20Support-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
-   :width: 250px
+   :width: 300px
    :align: center
    :target: https://getchatsupport.live/
    :alt: Support Button
